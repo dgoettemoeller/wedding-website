@@ -1,0 +1,25 @@
+{
+  "name": "wedding-website",
+  "version": "1.0.0",
+  "description": "drew and michelle wedding website",
+  "main": "/wedding-website/myblog/_site/index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgoettemoeller/wedding-website.git"
+  },
+  "keywords": [
+    "wedding"
+  ],
+  "author": "drew goettemoeller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgoettemoeller/wedding-website/issues"
+  },
+  "homepage": "https://github.com/dgoettemoeller/wedding-website#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
